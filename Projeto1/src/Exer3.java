@@ -3,10 +3,14 @@ import java.util.Scanner;
 
 public class Exer3 {
     public static void main(String[] args) {
+
+        // cria a leitura do teclado
         
         Scanner leitura = new Scanner(System.in);
         int num;
-        
+
+        // amarzena a entrada do teclado em uma vaiavel
+
         System.out.println("digite um numero inteiro");
         num = Integer.parseInt(leitura.nextLine() );
 
