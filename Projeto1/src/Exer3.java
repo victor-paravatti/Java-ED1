@@ -24,7 +24,7 @@ public class Exer3 {
                 if (num < 12 ) {
                     System.out.println(" Boa dia"); 
                 }else {
-                    if (num < 18 ) {
+                    if (num < 18 ) { 
                         System.out.println(" Boa "); 
                     }else {
                         System.out.println(" Boa noite");
